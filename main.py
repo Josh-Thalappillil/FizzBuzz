@@ -18,5 +18,4 @@ def FizzBuzz(num):
     
     
 
-FizzBuzz(Num)
 FizzBuzz(Numbers)
